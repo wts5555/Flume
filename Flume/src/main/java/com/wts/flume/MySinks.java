@@ -65,6 +65,8 @@ public class MySinks extends AbstractSink implements Configurable {
         System.out.println("以为上次修改没有添加add这是使用add");
         System.out.println("为什么不能clone");
         System.out.println("Clone的是maven项目要配置maven的配置");
+        System.out.println("Clone的是maven项目要配置maven的配置");
+        System.out.println("Clone的是maven项目要配置maven的配置");
 
     }
 }
