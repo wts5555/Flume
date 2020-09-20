@@ -81,6 +81,10 @@ public class MySinks extends AbstractSink implements Configurable {
         System.out.println("222222222222222222222222");
         System.out.println("222222222222222222222222");
         System.out.println("222222222222222222222222");
+ System.out.println("44444444444444444");
+ System.out.println("44444444444444444");
+ System.out.println("44444444444444444");
+ System.out.println("44444444444444444");
 
     }
 }
