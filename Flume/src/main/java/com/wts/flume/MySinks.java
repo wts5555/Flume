@@ -58,4 +58,9 @@ public class MySinks extends AbstractSink implements Configurable {
         suffix = context.getString("suffix");
 
     }
+
+    public void tsetGit() {
+        System.out.println("此方法与本项目无关");
+        System.out.println("用来测试Git");
+    }
 }
