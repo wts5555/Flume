@@ -60,4 +60,11 @@ public class MySources extends AbstractSource implements Configurable, PollableS
         delay = context.getLong("delay");
         field = context.getString("field", "Hello");
     }
+
+    public void tsetGit() {
+        System.out.println("测试冲突");
+        System.out.println("刚才没看清，再来一次");
+    }
+
+
 }

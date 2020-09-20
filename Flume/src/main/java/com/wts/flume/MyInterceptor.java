@@ -61,4 +61,8 @@ public class MyInterceptor implements Interceptor {
 
         }
     }
+
+    public void testGit() {
+        System.out.println("效果不明显");
+    }
 }
