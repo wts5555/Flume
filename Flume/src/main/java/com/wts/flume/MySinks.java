@@ -62,29 +62,5 @@ public class MySinks extends AbstractSink implements Configurable {
     public void tsetGit() {
         System.out.println("此方法与本项目无关");
         System.out.println("用来测试Git");
-        System.out.println("以为上次修改没有添加add这是使用add");
-        System.out.println("为什么不能clone");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("Clone的是maven项目要配置maven的配置");
-        System.out.println("3333333333333333333333333");
-        System.out.println("44444444444444444");
-
- System.out.println("11111111111111111111111");
-        System.out.println("222222222222222222222222");
-        System.out.println("222222222222222222222222");
-        System.out.println("222222222222222222222222");
-        System.out.println("222222222222222222222222");
- System.out.println("44444444444444444");
- System.out.println("44444444444444444");
- System.out.println("44444444444444444");
- System.out.println("44444444444444444");
-
     }
 }
