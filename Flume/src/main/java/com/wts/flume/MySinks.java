@@ -62,5 +62,6 @@ public class MySinks extends AbstractSink implements Configurable {
     public void tsetGit() {
         System.out.println("此方法与本项目无关");
         System.out.println("用来测试Git");
+        System.out.println("以为上次修改没有添加add这是使用add");
     }
 }
